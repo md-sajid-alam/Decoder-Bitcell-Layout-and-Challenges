@@ -3,7 +3,8 @@
 Design of 7nm Decoder and Bit cell Layout block
 
 ## Layout Screenshot of Decoder + Bitcell
-<img width="1861" height="1042" alt="image" src="https://github.com/user-attachments/assets/4e724201-797c-46e6-805f-92e4632b3e60" />
+<img width="897" height="662" alt="image" src="https://github.com/user-attachments/assets/ca9fce97-6643-4ae2-a5f6-f1b34aee7f3d" />
+
 
 
 ## Schematic of Decoder + Bitcell 
